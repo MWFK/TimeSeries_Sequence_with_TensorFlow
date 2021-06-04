@@ -6,7 +6,7 @@ This repo is inspired by the content used for my preparation of the Tensorflow D
 and to help other developer find a quick go to solution to generic coding challenges.
 
 ### Sources
-##### chttps://www.deeplearning.ai/program/tensorflow-developer-professional-certificate/
+##### https://www.deeplearning.ai/program/tensorflow-developer-professional-certificate/
 ##### https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction
 
 ### Kudos
