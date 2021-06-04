@@ -1,5 +1,4 @@
 # Time_Series_and_Sequence_with_TensorFlow
-Time_Series_and_Sequences_with_TensorFlow
 
 ### Inspiration
 This repo is inspired by the content used for my preparation of the Tensorflow Developer Professiona Certificate, where I have stored some notebooks to refer to when needed, 
