@@ -10,9 +10,17 @@ and it can be used to get a quick working models with their respective accuracy 
 ### Sources
 ##### https://www.deeplearning.ai/program/tensorflow-developer-professional-certificate/
 ##### https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction
+##### https://machinelearningmastery.com/convert-time-series-supervised-learning-problem-python/
+##### https://machinelearningmastery.com/moving-average-smoothing-for-time-series-forecasting-python/
+##### https://www.kaggle.com/nicholasjhana/univariate-time-series-forecasting-with-keras
+##### https://www.kaggle.com/nicholasjhana/multi-variate-time-series-forecasting-tensorflow/data
 
 ### Kudos
 ##### Laurence Moroney
 https://www.linkedin.com/in/laurence-moroney/
 ##### Andrewy Ng
 https://www.linkedin.com/in/andrewyng/
+##### Jason Brownlee
+https://www.linkedin.com/in/jasonbrownlee/
+##### Nicholas Jhana
+https://www.kaggle.com/nicholasjhana
